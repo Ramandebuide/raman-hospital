@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/raman-hospital/static/css/main.c27c1e29.css",
+    "main.js": "/raman-hospital/static/js/main.b49f5baf.js",
+    "index.html": "/raman-hospital/index.html",
+    "main.c27c1e29.css.map": "/raman-hospital/static/css/main.c27c1e29.css.map",
+    "main.b49f5baf.js.map": "/raman-hospital/static/js/main.b49f5baf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c27c1e29.css",
+    "static/js/main.b49f5baf.js"
+  ]
+}
