@@ -1,7 +1,7 @@
 import {act} from 'react'
 import { fireEvent, render,cleanup, screen } from '@testing-library/react';
-import RoomButton from './component/RoomButton';
-import HospitalDetails from './component/HospitalDetail';
+import RoomButton from '../main/component/RoomButton';
+import HospitalDetails from '../main/component/HospitalDetail';
 
 // afterEach(cleanup);
 
