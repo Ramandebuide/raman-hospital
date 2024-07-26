@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import RoomButton from './RoomButton'
-import '../App.css'
+import '../../App.css'
 import axios from 'axios-typescript';
 
 interface responseDataStucture{
