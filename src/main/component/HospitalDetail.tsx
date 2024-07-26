@@ -8,10 +8,7 @@ interface responseDataStucture{
     oxygenRoom?:number;
     icuRoom?:number;
 }
-interface response{
-  data:responseDataStucture;
-  message:string;
-}
+
 const HospitalDetails = () => {
     const [details,setDetails]=useState<responseDataStucture>({});
     const [message,setMessage]=useState<string>("");
